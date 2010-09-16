@@ -1,0 +1,39 @@
+[submodule "ruby-haml.tmbundle"]
+	path = ruby-haml.tmbundle
+	url = git://github.com/textmate/ruby-haml.tmbundle.git
+[submodule "formtastic.tmbundle"]
+	path = formtastic.tmbundle
+	url = http://github.com/grimen/formtastic_tmbundle.git
+[submodule "ruby-sass.tmbundle"]
+	path = ruby-sass.tmbundle
+	url = http://github.com/aussiegeek/ruby-sass-tmbundle.git
+[submodule "markdown.tmbundle"]
+	path = markdown.tmbundle
+	url = http://github.com/textmate/markdown.tmbundle.git
+[submodule "textile.tmbundle"]
+	path = textile.tmbundle
+	url = http://github.com/textmate/textile.tmbundle.git
+[submodule "ruby.tmbundle"]
+	path = ruby.tmbundle
+	url = http://github.com/textmate/ruby.tmbundle.git
+[submodule "github.tmbundle"]
+	path = github.tmbundle
+	url = git://github.com/drnic/github-tmbundle.git
+[submodule "ruby-rspec.tmbundle"]
+	path = ruby-rspec.tmbundle
+	url = http://github.com/textmate/ruby-rspec.tmbundle.git
+[submodule "yaml.tmbundle"]
+	path = yaml.tmbundle
+	url = http://github.com/textmate/yaml.tmbundle.git
+[submodule "ssh-config.tmbundle"]
+	path = ssh-config.tmbundle
+	url = http://github.com/textmate/ssh-config.tmbundle.git
+[submodule "sql.tmbundle"]
+	path = sql.tmbundle
+	url = http://github.com/textmate/sql.tmbundle.git
+[submodule "ruby-on-rails.tmbundle"]
+	path = ruby-on-rails.tmbundle
+	url = http://github.com/textmate/ruby-on-rails.tmbundle.git
+[submodule "css.tmbundle"]
+	path = css.tmbundle
+	url = http://github.com/textmate/css.tmbundle.git
