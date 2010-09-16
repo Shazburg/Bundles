@@ -1,0 +1,12 @@
+= Bundles
+<em>A meta git repo to manage Textmate Bundles</em>
+
+Author::        Josh Matthews <mailto:jm@scrug.net>
+Copyright::     Copyright (c) 2010 Josh Matthews
+License::       MIT (http://www.opensource.org/licenses/mit-license.php)
+
+== Installation
+
+* cd ~/Library/Application Support/Textmate
+* git clone git@github.com:Shazburg/Bundles.git
+* cd Bundles && git submodule update
